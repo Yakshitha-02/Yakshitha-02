@@ -44,49 +44,6 @@ Git • GitHub • VS Code • AWS
 
 ---
 
-## Featured Projects
-
-### AI-RAG Academic Chatbot
-
-A Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDF documents using semantic search, FAISS vector databases, SentenceTransformers embeddings, and LLM APIs.
-
-Repository:
-
-* https://github.com/Yakshitha-02/ragchatbotnew
-
----
-
-### Student Collaboration Hub
-
-A full-stack platform enabling students to share notes, opportunities, and academic resources using React, Python, REST APIs, and Cloudinary.
-
-Repositories:
-
-* Frontend: https://github.com/Yakshitha-02/frontend-SCH
-* Backend: https://github.com/Yakshitha-02/backend-SCH
-
----
-
-### Budget Tracker App
-
-A responsive budgeting application with expense tracking, analytics dashboards, and financial visualizations.
-
-Repository:
-
-* https://github.com/Yakshitha-02/budgetfriend
-
----
-
-### Image Caption Generator
-
-An AI-powered image description system built using TensorFlow, Keras, ResNet50, and FastAPI.
-
-Repository:
-
-* https://github.com/Yakshitha-02/image_caption_generator
-
----
-
 ## Achievements
 
 * ICPC Regionalist
@@ -120,7 +77,7 @@ GitHub:
 
 Portfolio:
 
-* Add your Netlify portfolio link here
+* https://yakshithaportfolio.netlify.app/
 
 Email:
 
